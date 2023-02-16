@@ -1,0 +1,11 @@
+{
+    "texture": "hashira",
+      "backTexture": 2,
+    "height": 1.0,
+    "width": 0.25,
+    "depth": 0.25,
+    "frame": 1,
+    "animationCycle": 1,
+    "color" : 25512739,
+      "lightValue": 0
+  }
